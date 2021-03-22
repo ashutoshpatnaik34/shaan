@@ -2,6 +2,9 @@ This is my first code.
 
 This is my 2nd code.
 
-this is  my  third code .
 
-logic by (rohit)
+This is my 3rd code.
+
+logic by (sniku)
+
+
